@@ -7,7 +7,7 @@ The application allows the user to create baches of images so as sequentially to
   * Master folder creation (Many baches may be stored in the same master folder)
   * Establisment of a root save directory (all watermarked images within the folder will be there)
   * Creation of a split number (Meaning that for large baches we can parallelize the watermarking proscess by splitting the bach) - under development
-  * Creation of a default robustness parameter (a factor of the aythenticuty watermarking proscess)
+  * Creation of a default robustness parameter (a factor of the aythenticity watermarking proscess)
   * Selection of either marking or validation
 
 ## Image of the app
