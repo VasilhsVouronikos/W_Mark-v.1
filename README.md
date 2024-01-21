@@ -11,7 +11,7 @@ The application allows the user to create baches of images so as sequentially to
   * Selection of either marking or validation
 
 ## About the software
-W_Mark was created using Python 3.11 with the help of TKinter for the GUI. The code then was compiled into C code using Nuitka 1.9.7 creating .exe file.
+W_Mark was created using Python 3.11 with the help of TKinter for the GUI. The code then was compiled into C code using Nuitka 1.9.7 creating an .exe file.
 
 
 ## Based on
