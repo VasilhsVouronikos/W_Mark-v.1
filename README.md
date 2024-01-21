@@ -10,6 +10,10 @@ The application allows the user to create baches of images so as sequentially to
   * Creation of a default robustness parameter (a factor of the aythenticity watermarking proscess)
   * Selection of either marking or validation
 
+## About the software
+W_Mark was created using Python 3.11 with the help of TKinter for the GUI. The code then was compiled into C code using Nuitka 1.9.7 creating .exe file.
+
+
 ## Based on
 W_Mark is based on the watermarking and tamper detection approaches from the following scientific papers
 * Chroni, M., Nikolopoulos, S. D., Polenakis, I., & Vouronikos, V. (2023, July). A Code-Based Multiple Watermarking Scheme for the Preservation of Authenticity of Forensic Images. 
@@ -20,5 +24,4 @@ In 2023 14th International Conference on Information, Intelligence, Systems & Ap
 
 
 ## Image of the app
-![sneak pic](https://github.com/VasilhsVouronikos/W_Mark-v.1/blob/main/images/run.PNG?raw=true)
 ![sneak pic](https://github.com/VasilhsVouronikos/W_Mark-v.1/blob/main/images/run1.PNG?raw=true)
