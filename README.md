@@ -12,6 +12,7 @@ The application allows the user to create baches of images so as sequentially to
 
 ## About the software
 W_Mark was created using Python 3.11 with the help of TKinter for the GUI. The code then was compiled into C code using Nuitka 1.9.7 creating an .exe file.
+Get the app from here https://drive.google.com/open?id=1PFFrWdYngznHyt1uoELOFsGaunh0qW2l&usp=drive_fs
 
 
 ## Based on
