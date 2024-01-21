@@ -20,4 +20,4 @@ In 2023 14th International Conference on Information, Intelligence, Systems & Ap
 
 
 ## Image of the app
-![sneak pic](https://github.com/VasilhsVouronikos/W_Mark-v.1/blob/main/images/after_the_bach.PNG?raw=true)
+![sneak pic](https://github.com/VasilhsVouronikos/W_Mark-v.1/blob/main/images/run.PNG?raw=true)
